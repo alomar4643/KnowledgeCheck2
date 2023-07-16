@@ -1,0 +1,4 @@
+SELECT * FROM Orders Where OrderId = 10310;
+SELECT CustomerName FROM Customers Where CustomerID = 77;
+SELECT * FROM Products Where ProductID = 40;
+SELECT Address FROM Suppliers Where SupplierID = 19;
